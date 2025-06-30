@@ -1,4 +1,6 @@
 {
+  "name": "idm-asd/cilecture",
+  "description": "Small exercise",
   "require-dev": {
     "phpunit/phpunit": "^10.5"
   },
